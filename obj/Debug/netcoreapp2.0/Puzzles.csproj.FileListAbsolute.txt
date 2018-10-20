@@ -1,0 +1,10 @@
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_1/Puzzles/bin/Debug/netcoreapp2.0/Puzzles.deps.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_1/Puzzles/bin/Debug/netcoreapp2.0/Puzzles.runtimeconfig.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_1/Puzzles/bin/Debug/netcoreapp2.0/Puzzles.runtimeconfig.dev.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_1/Puzzles/bin/Debug/netcoreapp2.0/Puzzles.dll
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_1/Puzzles/bin/Debug/netcoreapp2.0/Puzzles.pdb
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_1/Puzzles/obj/Debug/netcoreapp2.0/Puzzles.csproj.CoreCompileInputs.cache
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_1/Puzzles/obj/Debug/netcoreapp2.0/Puzzles.AssemblyInfoInputs.cache
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_1/Puzzles/obj/Debug/netcoreapp2.0/Puzzles.AssemblyInfo.cs
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_1/Puzzles/obj/Debug/netcoreapp2.0/Puzzles.dll
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_1/Puzzles/obj/Debug/netcoreapp2.0/Puzzles.pdb
